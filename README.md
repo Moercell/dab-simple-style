@@ -3,7 +3,7 @@ simple css overwrite for http://campus.design-akademie-berlin.de
 
 ```
 div#pageContainer.pageElementTop {
-	filter: hue-rotate(90deg) invert(85%)
+	filter: hue-rotate(310deg) invert(85%)
 }
 
 #pageContainer {
