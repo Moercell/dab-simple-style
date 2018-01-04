@@ -23,4 +23,4 @@ table tr{
 }
 ```
 
-![](init/IMG_2596.jpg)
+![](IMG_2596.jpg)
